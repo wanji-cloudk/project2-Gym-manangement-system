@@ -29,11 +29,19 @@ cd project
 ### To run the gym management system, execute:
 ```bash
 python project.py
+```
+![App Output](https://raw.githubusercontent.com/wanji-cloudk/project2-Gym-manangement-system/main/project.py2.png)
+
+![App Output](https://github.com/wanji-cloudk/project2-Gym-manangement-system/blob/c1e5b63b0daa85f27588d738368a739173acb322/Screenshot%202026-02-25%20144947.png)
+
+![App Output](https://github.com/wanji-cloudk/project2-Gym-manangement-system/blob/c1e5b63b0daa85f27588d738368a739173acb322/Screenshot%202026-02-25%20145311.png)
 
 #### Running Tests
 To run test on project.py,and to ensure that the application functions as intended execute the following command:
 ```bash
 pytest test_project.py
+```
+![App Output](https://github.com/wanji-cloudk/project2-Gym-manangement-system/blob/c1e5b63b0daa85f27588d738368a739173acb322/Screenshot%202026-02-25%20145532.png)
 
 #### Run Locally
 clone the project
